@@ -1,0 +1,17 @@
+.input__box{
+    width:100% !important;
+}
+
+select{
+    width: 100% !important;;
+}
+
+.radio{
+    width: auto !important;
+    display: inline-block !important;
+    margin-right: 10px;
+}
+
+.radio__lbl{
+    display: inline-block !important;
+}
